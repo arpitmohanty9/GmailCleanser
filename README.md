@@ -1,5 +1,5 @@
 # GmailCleanser
-A python script to delete bulk spam mails in gmail
+A python script to delete bulk spam mails in gmail.
 
 The selection for the email(s) is based on user provided 'From:' email address or a Keyword in the subject line.
 e.g. 
